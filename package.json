@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/masanorifunaki/ts-for-js-developers/issues"
   },
-  "homepage": "https://github.com/masanorifunaki/ts-for-js-developers#readme"
+  "homepage": "https://github.com/masanorifunaki/ts-for-js-developers#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
